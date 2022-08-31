@@ -24,4 +24,3 @@ int maximum(int y, int x)
     return x;
 }
 
-123
